@@ -82,7 +82,7 @@ I notice some licks, but only in my computer, other peripherics didn't show the 
 
 Specs: i5 (2014), 4gb ram, Windows 10 pro.
 
-# Usability Testing:**
+# Usability Testing:
 
 **Evaluate the game’s user interface for ease of use.**
 
