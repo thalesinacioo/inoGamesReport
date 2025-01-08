@@ -94,7 +94,7 @@ I Found a bug here and I opened a issue on Jira:
 
 ![screencapture-thalesinacioo-atlassian-net-browse-DP-8-2025-01-08-11_35_16](https://github.com/user-attachments/assets/7acdd1f1-1e73-49a1-834b-0fc8ab12d4f3)
 
-Why I select this game? weel, I noticed in the email that has a letter T missing on the link and I had a 404 error in the first acces, so I think, hmm, this is a good trick to start.
+Why I choose this game? weel, I noticed in the email that has a letter T missing on the link and I had a 404 error in the first acces, so I think, hmm, this is a good trick to start.
 I like the colors and I like to play, but I miss more animations in the lines like on the Esqueleto Explosivo 2.
 It was an engaging experience, but I think if we had more animations it will be more addict.
 
